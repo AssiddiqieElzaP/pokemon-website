@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-website.github.io/static/css/main.06cabbd0.css",
+    "main.js": "/pokemon-website.github.io/static/js/main.383b7ebf.js",
+    "index.html": "/pokemon-website.github.io/index.html",
+    "main.06cabbd0.css.map": "/pokemon-website.github.io/static/css/main.06cabbd0.css.map",
+    "main.383b7ebf.js.map": "/pokemon-website.github.io/static/js/main.383b7ebf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06cabbd0.css",
+    "static/js/main.383b7ebf.js"
+  ]
+}
